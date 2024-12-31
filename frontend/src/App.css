@@ -1,0 +1,6 @@
+#root {
+  width: 100vw; /*Changed from max-width: 1280px;*/
+  height: 100vh; /*Changed from max-width: 1280px;*/
+  margin: 0 auto;
+  display: "flex";
+}
